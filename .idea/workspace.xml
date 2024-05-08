@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="Add auth check annotation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yyfyyfstudy1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yyfyyfstudy1/FastDataGenerator.git&quot;,
+    &quot;accountId&quot;: &quot;92e6b55d-a94d-4e5d-a3f4-7b8b4e5c932d&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fcBzpl7UmquoIcBoTBLsM2jCxB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MainApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mt/FastDataGenerator/src/main/java/com",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather/common" />
+      <recent name="$PROJECT_DIR$/src/main/java/com" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather/controller" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="sql-father-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.sqlfather.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="" />
+      <created>1714090751677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714090751677</updated>
+      <workItem from="1714090752632" duration="3124000" />
+      <workItem from="1714144723704" duration="567000" />
+      <workItem from="1714226363160" duration="158000" />
+      <workItem from="1714385456674" duration="142000" />
+      <workItem from="1714489084784" duration="3000" />
+      <workItem from="1714973594207" duration="75000" />
+      <workItem from="1715166188096" duration="312000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add solar terms segmentation dictionary">
+      <option name="closed" value="true" />
+      <created>1714145012265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714145012265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add sql file">
+      <option name="closed" value="true" />
+      <created>1714145069178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714145069178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Provides tools for evolving database schema over time without losing data.">
+      <option name="closed" value="true" />
+      <created>1714145241825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714145241825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add field valiadion tool class">
+      <option name="closed" value="true" />
+      <created>1714226474133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714226474133</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add exception class">
+      <option name="closed" value="true" />
+      <created>1714226511424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714226511424</updated>
+    </task>
+    <task id="LOCAL-00006" summary="common class for the generation rule">
+      <option name="closed" value="true" />
+      <created>1714385570573</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714385570573</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Jsckson ocnfig and Rest template config">
+      <option name="closed" value="true" />
+      <created>1714973658666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714973658666</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fileld and report function interface">
+      <option name="closed" value="true" />
+      <created>1715166413080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715166413080</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add auth check annotation">
+      <option name="closed" value="true" />
+      <created>1715166465435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715166465435</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add solar terms segmentation dictionary" />
+    <MESSAGE value="add sql file" />
+    <MESSAGE value="Provides tools for evolving database schema over time without losing data." />
+    <MESSAGE value="Add field valiadion tool class" />
+    <MESSAGE value="Add exception class" />
+    <MESSAGE value="common class for the generation rule" />
+    <MESSAGE value="Add Jsckson ocnfig and Rest template config" />
+    <MESSAGE value="Fileld and report function interface" />
+    <MESSAGE value="Add auth check annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add auth check annotation" />
+  </component>
+</project>
