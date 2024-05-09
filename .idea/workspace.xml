@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="Add auth check annotation" />
+    <list default="true" id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="adjust the project structure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +66,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather/common" />
-      <recent name="$PROJECT_DIR$/src/main/java/com" />
       <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather/controller" />
-      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com" />
     </key>
   </component>
   <component name="RunManager">
@@ -107,7 +110,7 @@
       <workItem from="1714385456674" duration="142000" />
       <workItem from="1714489084784" duration="3000" />
       <workItem from="1714973594207" duration="75000" />
-      <workItem from="1715166188096" duration="312000" />
+      <workItem from="1715166188096" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="Add solar terms segmentation dictionary">
       <option name="closed" value="true" />
@@ -181,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715166465435</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fast data generator core">
+      <option name="closed" value="true" />
+      <created>1715166515301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715166515301</updated>
+    </task>
+    <task id="LOCAL-00011" summary="adjust the project structure">
+      <option name="closed" value="true" />
+      <created>1715166544726</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715166544726</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +216,8 @@
     <MESSAGE value="Add Jsckson ocnfig and Rest template config" />
     <MESSAGE value="Fileld and report function interface" />
     <MESSAGE value="Add auth check annotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add auth check annotation" />
+    <MESSAGE value="Fast data generator core" />
+    <MESSAGE value="adjust the project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjust the project structure" />
   </component>
 </project>

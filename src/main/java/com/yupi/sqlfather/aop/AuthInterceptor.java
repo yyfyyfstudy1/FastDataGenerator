@@ -5,7 +5,7 @@ import com.yupi.sqlfather.annotation.AuthCheck;
 import com.yupi.sqlfather.common.ErrorCode;
 import com.yupi.sqlfather.exception.BusinessException;
 import com.yupi.sqlfather.model.entity.User;
-
+import com.yupi.sqlfather.service.UserService;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
