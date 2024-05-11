@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="adjust the project structure" />
+    <list default="true" id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="Refactor some code using AOP aspects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +51,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mt/FastDataGenerator/src/main/java/com",
+    "last_opened_file_path": "/Users/mt/FastDataGenerator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/com" />
       <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather/common" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather/controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com" />
@@ -111,6 +111,7 @@
       <workItem from="1714489084784" duration="3000" />
       <workItem from="1714973594207" duration="75000" />
       <workItem from="1715166188096" duration="368000" />
+      <workItem from="1715221122539" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="Add solar terms segmentation dictionary">
       <option name="closed" value="true" />
@@ -200,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715166544726</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Refactor some code using AOP aspects">
+      <option name="closed" value="true" />
+      <created>1715221243300</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715221243300</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +227,7 @@
     <MESSAGE value="Add auth check annotation" />
     <MESSAGE value="Fast data generator core" />
     <MESSAGE value="adjust the project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="adjust the project structure" />
+    <MESSAGE value="Refactor some code using AOP aspects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor some code using AOP aspects" />
   </component>
 </project>
