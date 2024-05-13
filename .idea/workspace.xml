@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="Refactor some code using AOP aspects" />
+    <list default="true" id="2e1a0fae-774b-4f11-a834-5b1ae4c915e9" name="Changes" comment="register current user information handler" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +51,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mt/FastDataGenerator",
+    "last_opened_file_path": "/Users/mt/FastDataGenerator/src/main/java/com/yupi/sqlfather",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,9 +66,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/com" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/main/java/com/yupi/sqlfather/common" />
     </key>
@@ -112,6 +112,7 @@
       <workItem from="1714973594207" duration="75000" />
       <workItem from="1715166188096" duration="368000" />
       <workItem from="1715221122539" duration="144000" />
+      <workItem from="1715441795480" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="Add solar terms segmentation dictionary">
       <option name="closed" value="true" />
@@ -209,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715221243300</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="test file">
+      <option name="closed" value="true" />
+      <created>1715441844267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715441844267</updated>
+    </task>
+    <task id="LOCAL-00014" summary="register current user information handler">
+      <option name="closed" value="true" />
+      <created>1715441931722</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715441931722</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +245,8 @@
     <MESSAGE value="Fast data generator core" />
     <MESSAGE value="adjust the project structure" />
     <MESSAGE value="Refactor some code using AOP aspects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor some code using AOP aspects" />
+    <MESSAGE value="test file" />
+    <MESSAGE value="register current user information handler" />
+    <option name="LAST_COMMIT_MESSAGE" value="register current user information handler" />
   </component>
 </project>
