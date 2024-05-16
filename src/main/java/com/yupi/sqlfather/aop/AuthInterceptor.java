@@ -49,6 +49,7 @@ public class AuthInterceptor {
         User user = userService.getLoginUser(request);
         // 拥有任意权限即通过
         if (CollectionUtils.isNotEmpty(anyRole)) {
+            // check the user role
             String userRole = user.getUserRole();
             if (!anyRole.contains(userRole)) {
                 throw new BusinessException(ErrorCode.NO_AUTH_ERROR);
